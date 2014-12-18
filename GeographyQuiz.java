@@ -1,9 +1,7 @@
 /****************************************
  MINI PROJECT - GEOGRAPHY QUIZ
  AUTHOR: Nickson Thanda
- STUDENT ID: 140171695
- DATE: 11/11/2014
- This is my mini project, a geography quiz. Users can input their answers and get points
+ This is a geography quiz. Users can input their answers and get points
  they can also play with their friends.
  USES: Screen output, Keyboard input, variables, assignment, expressions, 
  nested loops, sort algorithms and file input/output
